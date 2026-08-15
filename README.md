@@ -40,7 +40,7 @@ vec = vector_push(vec, 10);   // always reassign : vec may have moved
 vec = vector_push(vec, 20);
 ```
 
-Forgetting to reassign is the most common source of bugs when using this library.
+⚠️Forgetting to reassign is the most common source of bugs when using this library.
 
 ## Library Structure
 
