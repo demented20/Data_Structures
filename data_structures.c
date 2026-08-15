@@ -606,8 +606,8 @@ void print_hashmap(HashmapHeader* map) {
         printf("\n");
     }
 }
-
-int main() {
+//to test the code remove the number "2" written after main the compile and run the program
+int main2() {
     printf("========== DATA STRUCTURES TEST SUITE ==========\n\n");
     printf("COMPILED SUCCESSFULLYy\n");
 
